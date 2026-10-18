@@ -77,4 +77,5 @@ The design was synthesized with **Xilinx Vivado 2018.1** and validated through b
 .
 ├── 10842662.vhd    # Complete VHDL implementation (project_reti_logiche + submodules)
 ├── 10842662.pdf    # Project report (Italian) with block diagrams, FSM, and synthesis results
-└── README.md       # Project documentation
+├── README.md       # Project documentation
+└── LICENSE         # Project MIT License
